@@ -17,3 +17,25 @@ body {
 
 /* ---------------------------------------------------- */
 
+.kontejner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.horni {
+    width: 100%;
+}
+
+.prvni {
+    width: calc(100% / 3);
+}
+
+.druhy {
+    width: calc(100% / 3);
+}
+
+.treti {
+    width: calc(100% / 3);
+}
+
