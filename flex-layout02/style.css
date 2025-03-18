@@ -24,3 +24,24 @@ body {
 }
 
 /* ---------------------------------------------------- */
+
+.kontejner {
+  display: flex;
+  flex-direction: row;
+}
+
+.levy {
+  width: 50%;
+}
+
+.pravy {
+  width: 50%;
+}
+
+.horni {
+  height: 50%;
+}
+
+.dolni {
+  height: 50%;
+}
