@@ -30,3 +30,21 @@ body {
 }
 
 /* ---------------------------------------------------- */
+
+.kontejner {
+  display: flex;
+  flex-direction: row;
+}
+
+.levy {
+  width: 25%;
+  order: -1;
+}
+
+.pravy {
+  width: 20%;
+}
+
+.hlavni {
+  width: 55%;
+}
